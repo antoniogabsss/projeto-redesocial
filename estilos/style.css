@@ -1,5 +1,12 @@
 @charset "UTF-8";
 
+/* 
+Em <main>: 
+display: flex;
+    justify-content: center;
+    align-items: center;
+*/
+
 * {
     margin: 0px;
     padding: 0px;
@@ -17,13 +24,6 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
-
-/* 
-Em <main>: 
-display: flex;
-    justify-content: center;
-    align-items: center;
-*/
 
 main {
     position: relative;
