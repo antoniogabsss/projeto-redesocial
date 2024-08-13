@@ -25,11 +25,6 @@ body {
     background-attachment: fixed;
 }
 
-main {
-    position: relative;
-    height: 100vh;
-}
-
 #celular {
     position: absolute;
     top: 50%;
@@ -50,7 +45,7 @@ main {
 }
 
 #redes-sociais {
-    display:  flex;
+    display: flex;
     flex-direction: column;
     text-align: right;
 }
